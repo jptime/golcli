@@ -1,0 +1,15 @@
+{
+  "name": "golcli",
+  "version": "1.0.0",
+  "description": "Game of Life in Javascript using Charm to render to console.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "charm": "^1.0.1"
+  }
+}
